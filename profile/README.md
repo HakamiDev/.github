@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hkmdev-minimal.svg" alt="HKMDev — Build. Test. Refine. Share." width="100%">
+<img src="assets/hkmdev-header.png" alt="HKMDev — Build. Test. Refine. Share." width="100%">
 
 <br>
 
